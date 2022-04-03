@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Readability_Score.Readability_Score-task-build-classes-java.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task-build-reports-tests.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task-build-test-results.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task-build-tmp.main" target="11" />
+      <module name="Readability_Score.Readability_Score-task.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Basic_calculator.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Command_line_arguments.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-How_to_pass_ints.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-How_to_start_a_program.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Parameters_and_their_values.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Passing_three_arguments.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-The_index_of_an_argument.main" target="11" />
+      <module name="Readability_Score.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Readability_Score.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
